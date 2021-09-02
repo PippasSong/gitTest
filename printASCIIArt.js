@@ -38,5 +38,7 @@ function printASCIIArt(){
   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█`);
 }
 
+// 페어 프로그래밍 확인
+
 console.log(printASCIIArt());
 console.log("페페");
