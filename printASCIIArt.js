@@ -39,3 +39,4 @@ function printASCIIArt(){
 }
 
 console.log(printASCIIArt());
+console.log("페페");
