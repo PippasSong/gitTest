@@ -38,7 +38,9 @@ function printASCIIArt(){
   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█`);
 }
 
-// 페어 프로그래밍 확인
+// 페어 프로그래밍 확인 222
+// 아 너무 어렵다.!!!
+// 코딩 하는 것 보다 더 어려움 ㅋㅋㅋ
 
 console.log(printASCIIArt());
 console.log("페페");
