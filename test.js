@@ -3,6 +3,7 @@
 function func() {
   let foo = 'text';
   let a = 1;
+  let b = 2;
   return foo;
 }
 
