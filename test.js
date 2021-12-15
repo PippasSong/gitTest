@@ -2,7 +2,7 @@
 //https://feynubrick.github.io/2019/05/20/eslint-prettier.html
 function func() {
   let foo = 'text';
-
+  let a = 1;
   return foo;
 }
 
